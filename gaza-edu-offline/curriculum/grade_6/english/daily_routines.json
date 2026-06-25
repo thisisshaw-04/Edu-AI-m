@@ -1,0 +1,47 @@
+{
+  "id": "g6-english-daily-routines",
+  "grade": 6,
+  "subject": "اللغة الإنجليزية",
+  "unit": "Daily Life",
+  "title": "Daily Routines",
+  "estimatedMinutes": 15,
+  "learningGoals": [
+    "أتعرف كلمات عن الروتين اليومي.",
+    "أستخدم المضارع البسيط في جملة قصيرة.",
+    "أربط الكلمة الإنجليزية بمعناها العربي."
+  ],
+  "keyRules": [
+    "نستخدم المضارع البسيط للعادة اليومية.",
+    "I wake up تعني أستيقظ.",
+    "I study تعني أدرس."
+  ],
+  "explanation": "Daily routines هي أعمال نكررها في اليوم. نتعلم كلمات بسيطة مثل wake up، study، eat، sleep.",
+  "examples": [
+    {
+      "title": "Glossary",
+      "body": "wake up = يستيقظ، study = يدرس، eat = يأكل، sleep = ينام"
+    },
+    {
+      "title": "Example",
+      "body": "I study in the morning. أي: أدرس في الصباح."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "ما معنى wake up؟",
+      "choices": ["يستيقظ", "ينام", "يلعب", "يرسم"],
+      "answer": "يستيقظ",
+      "feedback": "wake up تعني يستيقظ."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "اختر معنى I study.",
+      "choices": ["أنا أدرس", "أنا أنام", "أنا آكل", "أنا أركض"],
+      "answer": "أنا أدرس",
+      "feedback": "study تعني يدرس."
+    }
+  ]
+}

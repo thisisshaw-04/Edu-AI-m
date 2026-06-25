@@ -1,0 +1,48 @@
+{
+  "id": "g12-english-tawjihi-vocabulary",
+  "grade": 12,
+  "subject": "اللغة الإنجليزية",
+  "unit": "Vocabulary",
+  "title": "كلمات أساسية للتوجيهي",
+  "estimatedMinutes": 15,
+  "examFocus": "مفردات ومعانٍ شائعة في أسئلة الاختيار",
+  "learningGoals": [
+    "أتعرف معنى كلمات إنجليزية أساسية.",
+    "أختار الكلمة المناسبة في جملة قصيرة.",
+    "أراجع الكلمات بتكرار هادئ."
+  ],
+  "keyRules": [
+    "أقرأ الجملة كاملة قبل اختيار الكلمة.",
+    "أبحث عن كلمات تساعدني على فهم السياق.",
+    "أراجع معنى الكلمة بالعربية ثم أستخدمها في مثال بسيط."
+  ],
+  "explanation": "في أسئلة المفردات، لا نحفظ الكلمة وحدها فقط. نقرأها داخل جملة، ثم نختار المعنى الأقرب للسياق.",
+  "examples": [
+    {
+      "title": "Glossary",
+      "body": "support = يدعم، improve = يحسن، prepare = يستعد"
+    },
+    {
+      "title": "Example",
+      "body": "Students prepare for exams. أي: يستعد الطلاب للامتحانات."
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "ما معنى كلمة improve؟",
+      "choices": ["يحسن", "ينسى", "ينام", "يرسم"],
+      "answer": "يحسن",
+      "feedback": "improve تعني يحسن أو يطور."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "اختر معنى support في جملة: Families support students.",
+      "choices": ["يدعم", "يكسر", "يؤخر", "يغلق"],
+      "answer": "يدعم",
+      "feedback": "support تعني يدعم."
+    }
+  ]
+}
