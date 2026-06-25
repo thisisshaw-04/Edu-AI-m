@@ -1,0 +1,173 @@
+{
+  "curriculumName": "منهاج تجريبي منظم",
+  "authorityNote": "ملفات المنهاج المحلية هي مصدر الحقيقة. هذه أمثلة تعليمية أولية قابلة للاستبدال بنسخ معتمدة.",
+  "grades": [
+    {
+      "grade": 3,
+      "label": "الصف الثالث",
+      "subjects": [
+        {
+          "id": "arabic_g3",
+          "name": "اللغة العربية",
+          "icon": "أ",
+          "color": "green",
+          "lessons": ["grade_3/arabic/main_idea.json"]
+        },
+        {
+          "id": "math_g3",
+          "name": "الرياضيات",
+          "icon": "+",
+          "color": "blue",
+          "lessons": [
+            "grade_3/math/addition_subtraction.json",
+            "grade_3/math/multiplication_intro.json",
+            "grade_3/math/time_money.json"
+          ]
+        },
+        {
+          "id": "islamic_g3",
+          "name": "التربية الإسلامية",
+          "icon": "د",
+          "color": "emerald",
+          "lessons": ["grade_3/islamic/good_manners.json"]
+        }
+      ]
+    },
+    {
+      "grade": 6,
+      "label": "الصف السادس",
+      "subjects": [
+        {
+          "id": "math",
+          "name": "الرياضيات",
+          "icon": "÷",
+          "color": "blue",
+          "lessons": [
+            "grade_6/math/fractions.json",
+            "grade_6/math/algebra.json",
+            "grade_6/math/decimals_percentages.json",
+            "grade_6/math/area_perimeter.json"
+          ]
+        },
+        {
+          "id": "arabic",
+          "name": "اللغة العربية",
+          "icon": "أ",
+          "color": "green",
+          "lessons": ["grade_6/arabic/reading_comprehension.json"]
+        },
+        {
+          "id": "science",
+          "name": "العلوم",
+          "icon": "ن",
+          "color": "violet",
+          "lessons": ["grade_6/science/plants.json", "grade_6/science/cells.json"]
+        },
+        {
+          "id": "english_g6",
+          "name": "اللغة الإنجليزية",
+          "icon": "En",
+          "color": "amber",
+          "lessons": ["grade_6/english/daily_routines.json"]
+        },
+        {
+          "id": "social_g6",
+          "name": "الدراسات الاجتماعية",
+          "icon": "خ",
+          "color": "teal",
+          "lessons": ["grade_6/social/geography_map_skills.json"]
+        },
+        {
+          "id": "islamic_g6",
+          "name": "التربية الإسلامية",
+          "icon": "د",
+          "color": "emerald",
+          "lessons": ["grade_6/islamic/honesty.json"]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "label": "الصف التاسع",
+      "subjects": [
+        {
+          "id": "arabic_g9",
+          "name": "اللغة العربية",
+          "icon": "أ",
+          "color": "green",
+          "lessons": ["grade_9/arabic/metaphor_intro.json"]
+        },
+        {
+          "id": "math_g9",
+          "name": "الرياضيات",
+          "icon": "س",
+          "color": "blue",
+          "lessons": [
+            "grade_9/math/linear_equations.json",
+            "grade_9/math/pythagoras.json",
+            "grade_9/math/probability_basics.json"
+          ]
+        },
+        {
+          "id": "science_g9",
+          "name": "العلوم",
+          "icon": "ع",
+          "color": "violet",
+          "lessons": ["grade_9/science/electric_circuits.json"]
+        },
+        {
+          "id": "social_g9",
+          "name": "الدراسات الاجتماعية",
+          "icon": "خ",
+          "color": "teal",
+          "lessons": ["grade_9/social/palestine_geography.json"]
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "label": "الثانوية العامة",
+      "subjects": [
+        {
+          "id": "math_tawjihi",
+          "name": "رياضيات التوجيهي",
+          "icon": "∫",
+          "color": "blue",
+          "lessons": [
+            "grade_12/math/tawjihi_calculus_intro.json",
+            "grade_12/math/tawjihi_derivative_rules.json",
+            "grade_12/math/tawjihi_derivative_applications.json"
+          ]
+        },
+        {
+          "id": "english_tawjihi",
+          "name": "إنجليزي التوجيهي",
+          "icon": "En",
+          "color": "amber",
+          "lessons": ["grade_12/english/tawjihi_vocabulary.json"]
+        },
+        {
+          "id": "arabic_tawjihi",
+          "name": "عربي التوجيهي",
+          "icon": "أ",
+          "color": "green",
+          "lessons": ["grade_12/arabic/tawjihi_literary_analysis.json"]
+        },
+        {
+          "id": "science_tawjihi",
+          "name": "علوم التوجيهي",
+          "icon": "ع",
+          "color": "violet",
+          "lessons": ["grade_12/science/tawjihi_genetics_intro.json"]
+        },
+        {
+          "id": "islamic_tawjihi",
+          "name": "تربية إسلامية التوجيهي",
+          "icon": "د",
+          "color": "emerald",
+          "lessons": ["grade_12/islamic/tawjihi_values_review.json"]
+        }
+      ]
+    }
+  ]
+}
