@@ -1,0 +1,9 @@
+{
+  "appId": "org.eduai.gaza.offline",
+  "appName": "Edu(AI)M",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Edu(AI)M",
+  "short_name": "Edu(AI)M",
+  "description": "Offline-first curriculum learning app for phone and tablet use.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "theme_color": "#d8cff8",
+  "background_color": "#d8cff8",
+  "icons": [
+    {
+      "src": "./assets/illustrations/splash.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
